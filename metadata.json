@@ -1,0 +1,6 @@
+{
+  "name": "PyJS Studio",
+  "description": "Learn and practice Python, JavaScript, and Web Development. Try coding logic quizzes, interactive lessons, and build web apps with live preview and real-time AI feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
